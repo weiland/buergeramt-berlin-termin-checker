@@ -1,0 +1,17 @@
+{
+  "name": "termin-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "got": "^3.3.1",
+    "node-notifier": "^4.2.3",
+    "pushover-notifications": "^0.2.2"
+  }
+}
