@@ -15,9 +15,11 @@ npm i
 # create a config.js 
 mv config.js.sample config.js
 
+# grab your pushover api key and token from https://pushover.net/
 # put in pushover keys and desired month into config.js
 vim/mate/subl config.js
 
 # run it
 node index.js
 ```
+
