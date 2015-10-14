@@ -1,0 +1,6 @@
+module.exports = {
+    user: 'user key',        // Pushover User Key
+    token: 'api token/key',  // Pushover Api Token
+    desiredMonth: 'november' // German month name
+};
+
